@@ -3,4 +3,4 @@ This repository contains materials and resources for AI security workshops. The 
 ## Workshop Materials
 | Type | Link | Description  | Usage |
 | :--: | :----: | :--------- | :-- |
-| Notebook | [AI security for high schools](notebooks\three_gates_workshop_de.ipynb) | Introduction to AI, adversarial attacks, three-gate defense pipeline. In direct German. In the end there's a interactive panel.| Create a python environment with python version 3.9, run the notebook. It automatically installs packages in need. |
+| Notebook | [AI security for high schools](notebooks\three_gates_workshop_de.ipynb) | Introduction to AI, adversarial attacks, three-gate defense pipeline. In direct German. In the end there's an interactive panel.| Create a python environment with python version 3.9/3.10/3.11, run the notebook. It automatically installs packages in need. |
